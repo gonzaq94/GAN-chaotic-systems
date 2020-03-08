@@ -12,4 +12,4 @@ Sparse regression
 
 Evaluation 
 
-1) Fin evaluation metrics that are specific for chaotic systems.
+1) Find evaluation metrics that are specific for chaotic systems.
