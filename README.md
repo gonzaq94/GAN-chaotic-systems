@@ -19,8 +19,8 @@ __Authors: Gonzalo Quintana, Gustavo Rodrigues dos Reis and Santiago Agudelo.__
 
 `Experiments`: contains experiments with CNN GANs that didn't result in better performances.
 
+`Models`: trained generator and discriminator that reached the best performances.
+
 ### CNN GAN architecture:
 
-![](images/generator.png)
-
-![](images/discriminator.png)
+![](images/GAN_architecture.png)
