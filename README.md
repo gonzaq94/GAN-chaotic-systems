@@ -21,6 +21,4 @@ __Authors: Gonzalo Quintana, Gustavo Rodrigues dos Reis and Santiago Agudelo.__
 
 `Models`: trained generator and discriminator that reached the best performances.
 
-### CNN GAN architecture:
-
 ![](images/GAN_achitecture.png)
