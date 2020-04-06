@@ -9,15 +9,17 @@ __Authors: Gonzalo Quintana, Gustavo Rodrigues dos Reis and Santiago Agudelo.__
 
 ### Files and folders:
 
-CNN GAN.ipynb: contains the final GAN architecture using CNNs
+'CNN GAN.ipynb': contains the final GAN architecture using CNNs
 
-GAN FC and LSTM.ipynb: GANs implementing fully connected layers and LSTMs. They didn't result in good performances.
+'GAN FC and LSTM.ipynb': GANs implementing fully connected layers and LSTMs. They didn't result in good performances.
 
-DSG.ipynb: Problem introduction, data generation and simple and local linear regression.
+'DSG.ipynb': Problem introduction, data generation and simple and local linear regression.
 
-FirstPartRegression.ipynb: more sophisticated regression methods (Ridge, Lasso, etc.) and Lyapunov exponent (characterization of a dynamic system).
+'FirstPartRegression.ipynb': more sophisticated regression methods (Ridge, Lasso, etc.) and Lyapunov exponent (characterization of a dynamic system).
 
-Experiments: contains experiments with CNN GANs that didn't result in better performances.
+'Experiments': contains experiments with CNN GANs that didn't result in better performances.
+
+### CNN GAN architecture:
 
 ![](images/generator.png)
 
