@@ -23,4 +23,4 @@ __Authors: Gonzalo Quintana, Gustavo Rodrigues dos Reis and Santiago Agudelo.__
 
 ### CNN GAN architecture:
 
-![](images/GAN_architecture.png)
+![](images/GAN_achitecture.png)
