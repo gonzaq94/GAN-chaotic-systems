@@ -1,5 +1,5 @@
 pandas==0.25.3
-numpy==1.18.1
+numpy==1.22.0
 scipy==1.4.1
 pygifsicle==1.0.1
 tensorflow_gpu==1.15.2
